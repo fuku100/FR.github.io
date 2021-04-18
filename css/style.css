@@ -60,7 +60,7 @@ header img:nth-child(2) {
 }
 
 .benefit::before {
-  background: url(../images/benefit_back.png) center center no-repeat;
+  background: url(../images/benefit_back.jpg) center center no-repeat;
   background-size:cover;
   content:"";
   display:block;
@@ -132,7 +132,7 @@ h2::after {
 }
 
 .shop {
-  background-image: url(../images/shop_back.png);
+  background-image: url(../images/shop_back.jpg);
   background-size: cover;
   padding: 19% 6% 16%;
 }
